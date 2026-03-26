@@ -21,3 +21,6 @@ The iPhone renderings were made in Autodesk Fusion, and the app icon was designe
 
 Created by Katelyn Hua, Autodesk Certified Pro.
 For the 2026 Swift Student Challenge
+
+# UPDATE 3-26-26: 
+It is with a heavy heart that ActivTimer didn't make to Swift Student Challenge this year. This app will be in an archive state. I hope to win the contest next year with a sequel.
